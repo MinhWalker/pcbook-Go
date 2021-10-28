@@ -1,0 +1,62 @@
+{
+  "id": "4ac0b4ae-96f7-490b-a58b-9a2ac22ab390",
+  "brand": "Asus",
+  "name": "vivobook",
+  "cpu": {
+    "brand": "Intel",
+    "name": "Core i9-9980HK",
+    "number_cores": 8,
+    "number_threads": 12,
+    "min_ghz": 3.394293446168491,
+    "max_ghz": 3.4982985926603765
+  },
+  "ram": {
+    "value": "31",
+    "unit": "GIGABYTE"
+  },
+  "gpus": [
+    {
+      "brand": "Nvidia",
+      "name": "GTX 1070",
+      "min_ghz": 1.4853443778335158,
+      "max_ghz": 1.4974650200578212,
+      "memory": {
+        "value": "4",
+        "unit": "GIGABYTE"
+      }
+    }
+  ],
+  "storages": [
+    {
+      "driver": "SSD",
+      "memory": {
+        "value": "558",
+        "unit": "GIGABYTE"
+      }
+    },
+    {
+      "driver": "HDD",
+      "memory": {
+        "value": "4",
+        "unit": "TERABYTE"
+      }
+    }
+  ],
+  "screen": {
+    "size_inch": 13.0850315,
+    "resolution": {
+      "width": 3624,
+      "height": 2039
+    },
+    "panel": "OLED",
+    "multitouch": true
+  },
+  "keyboard": {
+    "layout": "AZERTY",
+    "backlit": false
+  },
+  "weight_kg": 2.082971128736628,
+  "price_usd": 2736.5920545993363,
+  "release_year": 2017,
+  "updated_at": "2021-10-28T05:14:04.301243Z"
+}
